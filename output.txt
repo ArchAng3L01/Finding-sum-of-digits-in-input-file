@@ -1,0 +1,1 @@
+Sum of digits from file with name: input.txt is equals 23
